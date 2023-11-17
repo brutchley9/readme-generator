@@ -12,9 +12,8 @@ Follow link https://github.com/brutchley9/readme-generator to access GitHub repo
 
 # Resources
 
-<li></li>
+<li>https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide</li>
 
-<li></li>
+<li>https://www.educative.io/answers/how-to-use-the-inquirer-node-package</li>
 
-<li></li>
-
+<li>https://www.codecademy.com/article/getting-user-input-in-node-js</li>
